@@ -1,0 +1,11 @@
+{{ⵜⴰⴼⵍⵓⵖⵎⵉⵙⵜ ⵜⴰⵎⴷⵉⵏⵜ}}
+'''{village_name}''', ⵉⴳⴰ ⵢⴰⵏ [[ⴰⵙⵓⵏ|ⵓⵙⵓⵏ]] {village_type}, ⵢⵉⵍⵉ ⴳ ⵜⴳⵔⴰⵡⵜ ⵏ [[{commune} (ⵜⴰⴳⵔⴰⵡⵜ)|{commune}]], ⵜⴰⵥⴰⵢⵕⵜ ⵏ [[{circle} (ⵜⴰⵥⴰⵢⵕⵜ)|{circle}]], [[{prov_type} ⵏ {province}]], [[{region}]] ⴳ [[ⵍⵎⵖⵔⵉⴱ]]. ⵉⴹⴼⴰⵕ ⵓⵙⵓⵏ ⴰⴷ ⵉ ⵜⵔⴼⵉⵇⵜ ⵏ [[{fraction} (ⵜⴰⵔⴼⵉⵇⵜ)|{fraction}]] ⵏⵏⴰ ⴳ ⵍⵍⴰⵏ {village_count} ⵏ ⵉⵙⵓⵏⵏ. ⵢⵓⵡⴹ ⵓⵎⴹⴰⵏ ⵏ ⵉⵎⵣⴷⴰⵖⵏ ⵏⵏⵙ {population_2004} ⵏ ⵓⵎⵣⴷⴰⵖ ⴳ [[ⴰⵙⵉⴹⵏ ⴰⵎⴰⵜⴰⵢ ⵏ 2004|ⵓⵙⵉⴹⵏ ⴰⵎⴰⴷⴷⵓⴷ ⵏ ⵓⵙⴳⴳⵯⴰⵙ 2004]].<ref>[https://docs.google.com/spreadsheets/d/18mOOuVCAhkc38zrmKPxLUqGN6t0dTIOe/edit?usp=sharing&ouid=109715649259751438490&rtpof=true&sd=true ⴰⵙⵉⴹⵏ ⴰⵎⴰⵜⴰⵢ ⵏ ⵉⵎⵣⴷⴰⵖⵏ 2004] [[ⵜⴰⵙⵎⵉⵔⵉⵜ ⵜⴰⵎⴰⵜⵜⴰⵢⵜ ⵏ ⵓⵙⵖⵉⵡⵙ]]. 2004</ref>{{refn|group=ⵜⴰⵏⵏⴰⵢⵜ|ⵓⵔ ⵜⵜⵓⴼⵙⴰⵔⵏⵜ ⵜⵙⵏⴰⴷⴷⴰⴷⵉⵏ ⵏ ⵉⵙⵓⵏⵏ ⵏⵏⴰ ⴳ ⵍⵍⴰⵏⵜ ⴷⵔⵓⵙ ⵏ 30 ⵏ ⵜⵡⴰⵛⵓⵏⵜ ⴳ [[ⴰⵙⵉⴹⵏ ⴰⵎⴰⵜⴰⵢ ⵏ 2014|ⵓⵙⵉⴹⵏ ⴰⵎⴰⵜⴰⵢ ⵏ 2014]]<ref name=census>[https://rgph2014.hcp.ma/file/212306/ Données démographiques et socio-économiques de la population rurale (hors nomades) par douar selon le Recensement général de la population et de l'habitat de 2014] [[ⵜⴰⵙⵎⵉⵔⵉⵜ ⵜⴰⵎⴰⵜⵜⴰⵢⵜ ⵏ ⵓⵙⵖⵉⵡⵙ]].</ref>}}
+
+== ⵜⴰⵏⵏⴰⵢⵉⵏ ==
+{{ⵉⵙⴰⵖⵓⵍⵏ|group=ⵜⴰⵏⵏⴰⵢⵜ}}
+
+== ⵉⵙⴰⵖⵓⵍⵏ ==
+{{ⵉⵙⴰⵖⵓⵍⵏ}}
+
+[[ⴰⵙⵎⵉⵍ:ⴰⵙⵓⵏ ⴳ ⵍⵎⵖⵔⵉⴱ]]
+[[ⴰⵙⵎⵉⵍ:ⴰⵙⵓⵏ ⴳ {prov_type} ⵏ {province}]]
