@@ -38,7 +38,7 @@ def reduce_spaces(text):
     return re.sub(r'\s+', ' ', text).strip()
 
 # Function to replace initial "ⵡ" with "ⵓ" if not followed by "ⴰ", "ⵓ", "ⵉ" or if followed by "ⴻ" (removing "ⴻ")
-def replace_initial_y(text):
+def replace_initial_w(text):
     text = re.sub(r'^ⵡⴻ', 'ⵓ', text)
     return re.sub(r'(^ⵡ(?![ⴰⵓⵉ]))', 'ⵓ', text)
     
